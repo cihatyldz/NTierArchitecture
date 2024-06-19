@@ -20,6 +20,12 @@
 ### 3- Business Katmaný
 
 #### DI Oluþturuyoruz
-#### MedaitR ile CRQS Pattern Oluþturuyoruz
+#### MedaitR ile CQRS Pattern Oluþturuyoruz
 #### PipelineBehavior ile FluentValidation Kullanýyoruz
 #### AutoMapper Kullanýyoruz
+
+
+
+### 4- API Katmaný
+
+#### Controller Sýnýflarýný Oluþturuyoruz
