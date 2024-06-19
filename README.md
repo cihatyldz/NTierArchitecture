@@ -14,3 +14,12 @@
 #### Repository Methodlarýnýn Yazýlmasý
 #### Dependency Injection Kullanýyoruz
 #### Dependency Injection için Scrutor Kullanýyoruz
+
+
+
+### 3- Business Katmaný
+
+#### DI Oluþturuyoruz
+#### MedaitR ile CRQS Pattern Oluþturuyoruz
+#### PipelineBehavior ile FluentValidation Kullanýyoruz
+#### AutoMapper Kullanýyoruz
