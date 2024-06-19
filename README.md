@@ -4,3 +4,13 @@
 
 #### Models Sýnýflarýmýzý Oluþturuyoruz
 #### Repository Pattern ve UniofWork Kullanýyoruz
+
+
+
+### 2- DataAccess Katmaný
+
+#### ApplicationDbContext Sýnýfýmýzý Oluþturuyoruz
+#### Entity Configuration Sýnýflarýmýzý Oluþturuyoruz
+#### Repository Methodlarýnýn Yazýlmasý
+#### Dependency Injection Kullanýyoruz
+#### Dependency Injection için Scrutor Kullanýyoruz
