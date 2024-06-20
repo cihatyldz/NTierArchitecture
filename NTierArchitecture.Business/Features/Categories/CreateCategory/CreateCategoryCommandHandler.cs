@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using ErrorOr;
 using MediatR;
 using NTierArchitecture.Entities.Models;
 using NTierArchitecture.Entities.Repositories;
@@ -25,7 +26,7 @@ internal sealed class CreateCategoryCommandHandler : IRequestHandler<CreateCateg
 
         if (isCategoryNameExists)
         {
-            return Error.Conflict("NameIsExists", "Bu kategori daha önce oluşturulmuş!");
+            return ErrorOr.Error.Conflict("NameIsExists", "Bu kategori daha önce oluşturulmuş!");
         }
 
         Category category = _mapper.Map<Category>(request);

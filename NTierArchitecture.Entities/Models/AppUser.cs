@@ -7,5 +7,5 @@ public sealed class AppUser : IdentityUser<Guid>
 {
     public string Name { get; set; }
 
-    public string LastName { get; set; }
+    public string Lastname { get; set; }
 }

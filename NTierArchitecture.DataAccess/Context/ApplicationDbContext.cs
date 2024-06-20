@@ -21,6 +21,5 @@ internal sealed class ApplicationDbContext : IdentityDbContext<AppUser, AppRole,
         builder.Ignore<IdentityRoleClaim<Guid>>();
 
         builder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
-
     }
 }

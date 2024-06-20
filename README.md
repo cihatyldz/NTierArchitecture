@@ -29,3 +29,10 @@
 ### 4- API Katmaný
 
 #### Controller Sýnýflarýný Oluþturuyoruz
+
+
+
+### 5- Authentication&Authorization 
+
+#### Register&Login 
+#### Json Web Token (JWT) Kullanýyoruz

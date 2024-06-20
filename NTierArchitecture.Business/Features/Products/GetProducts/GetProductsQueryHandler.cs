@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.EntityFrameworkCore;
 using NTierArchitecture.Entities.Models;
 using NTierArchitecture.Entities.Repositories;
 

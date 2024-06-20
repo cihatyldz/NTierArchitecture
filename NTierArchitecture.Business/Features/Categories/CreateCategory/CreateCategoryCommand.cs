@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using ErrorOr;
+using MediatR;
 
 namespace NTierArchitecture.Business.Features.Categories.CreateCategory;
 
